@@ -1,0 +1,63 @@
+Product: PM
+Units: DBZ
+
+;The start of a precipitation typing diagnostic, lots to do still
+
+;Reflectivity
+Color4: -28 79 68 75 0 RAIN
+Color4: -20 102 76 102 0 RAIN
+Color4: -15 122 95 122 0 RAIN
+Color4: -10 147 120 147 0 RAIN
+Color4: -5 172 145 172 0 RAIN
+Color4: 0 170 197 170 0 RAIN
+Color4: 5 198 219 198 64 RAIN
+Color4: 10 200 241 200 128 RAIN
+Color4: 12.5 204 255 148 192 RAIN
+Color: 15 160 232 132 RAIN
+Color: 21.5 100 180 89 RAIN
+Color: 30 52 156 78 RAIN
+Color: 32.5 0 120 50 RAIN
+Color: 35 0 90 35 RAIN
+Color: 37.5 255 245 0 RAIN
+Color: 41.25 255 190 0 RAIN
+Color: 43.75 255 130 0 RAIN
+Color: 46.25 255 80 0 RAIN
+Color: 48.75 255 0 0 RAIN
+Color: 52.5 190 0 0 RAIN
+Color: 55 150 0 0 RAIN
+Color: 59.5 110 0 0 RAIN
+Color: 60 255 190 190 RAIN
+Color: 69.5 190 67 190 RAIN
+Color: 70 170 170 255 RAIN
+Color: 79.5 150 67 190 RAIN
+Color: 80 170 255 255 RAIN
+Color: 90 0 120 120 RAIN
+Color: 95 255 255 255 RAIN
+
+;Mixed
+Color4: 5   208 163 226 64 MIX
+Color: 10   191 139 212 128 MIX
+Color: 12.5 190 124 214 192 MIX
+Color: 15   181 105 208 MIX
+Color: 20   175 85  202 MIX
+Color: 25   163 66  196 MIX
+Color: 30   154 46  190 MIX
+Color: 32.5 144 44  172 MIX
+Color: 35   134 41  154 MIX
+Color: 37.5 123 39  136 MIX
+Color: 40   113 36  118 MIX
+Color: 42.5 103 34  100 MIX
+Color: 45   93  31  82 MIX
+Color: 47.5 82  29  64 MIX
+Color: 50   72  26  46 MIX
+
+;SNOW
+Color4: -28 102 102 102 0 SNOW
+Color4: -8 0 0 0 128 SNOW
+Color4: -8 193 193 193 131 SNOW
+Color4: 5 161 203 228 255 SNOW
+Color: 18 95 134 177 SNOW
+Color: 28 0 48 113 SNOW
+Color: 29 247 223 32 SNOW
+Color: 41 131 32 32 SNOW
+Color: 60 22 7 91 SNOW
